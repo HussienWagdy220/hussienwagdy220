@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋, I'm Hussien Wagdy  
 
-<!--
-**HussienWagdy220/hussienwagdy220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer | Backend Engineer | Problem Solver**  
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- **Languages:** Java, C#, JavaScript, SQL  
+- **Frameworks:** Spring Boot, ASP.NET Core, Hibernate, Entity Framework  
+- **Databases:** PostgreSQL, SQL Server, Redis  
+- **Tools:** Docker, Git, Postman, RabbitMQ  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Microservices architecture  
+- Prometheus & Grafana monitoring  
+- Cloud-native development  
+
+### 📊 GitHub Stats
+![Hussien's GitHub stats](https://github-readme-stats.vercel.app/api?username=HussienWagdy220&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HussienWagdy220&layout=compact&theme=radical)  
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 📧 Email: your.email@example.com  
+
+### ⚡ Fun Fact
+I love turning complex problems into elegant solutions.  
